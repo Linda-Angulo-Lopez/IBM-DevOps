@@ -1,11 +1,13 @@
-# IBM-DevOps-Micro
-GitHub Sign Up &amp; Create Repo
+# IBM CAD101EN
 
-Objectives
+### Introduction to Cloud Development with HTML, CSS, and JavaScript
+
+- GitHub Sign Up &amp; Create Repo, Objectives
+
 After completing this lab, you will be able to:
 
-Describe GitHub
-Create a GitHub account
-Add a project / repository
-Create and edit a file
-Upload and commit a file
+              Describe GitHub
+              Create a GitHub account
+              Add a project / repository
+              Create and edit a file
+              Upload and commit a file
